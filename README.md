@@ -6,5 +6,5 @@ Há duas pastas neste repositório, uma para a ideia original, a que foi pensada
 
 | Projeto   |  Caminhos |
 |  :----:   | ----------- |
-| Original | <a href="> |
-| Tchauzinho | <a href=>|
+| Original | <a href="Tarefa"> NAO de pé </a> |
+| Tchauzinho | <a href="tchauzinhoNAO.ttt"> NAO acenando</a> |
